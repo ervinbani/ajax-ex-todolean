@@ -1,0 +1,11 @@
+ul li:hover{
+      width:150px;
+      height:40px;
+      background: lightgrey;
+      cursor:pointer;
+}
+.del{
+    float:right;
+    padding-right: 0;
+    color:white;
+}
